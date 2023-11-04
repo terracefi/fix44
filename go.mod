@@ -1,12 +1,12 @@
-module github.com/quickfixgo/fix44
+module github.com/terracefi/fix44
 
 go 1.19
 
 require (
-	github.com/quickfixgo/enum v0.1.0
-	github.com/quickfixgo/field v0.1.0
-	github.com/quickfixgo/quickfix v0.7.0
-	github.com/quickfixgo/tag v0.1.0
+	github.com/terracefi/enum v0.1.0
+	github.com/terracefi/field v0.1.0
+	github.com/terracefi/quickfix v0.7.0
+	github.com/terracefi/tag v0.1.0
 	github.com/shopspring/decimal v1.3.1
 )
 

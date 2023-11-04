@@ -1,10 +1,10 @@
 package sequencereset
 
 import (
-	"github.com/quickfixgo/field"
-	"github.com/quickfixgo/fix44"
-	"github.com/quickfixgo/quickfix"
-	"github.com/quickfixgo/tag"
+	"github.com/terracefi/field"
+	"github.com/terracefi/fix44"
+	"github.com/terracefi/quickfix"
+	"github.com/terracefi/tag"
 )
 
 //SequenceReset is the fix44 SequenceReset type, MsgType = 4

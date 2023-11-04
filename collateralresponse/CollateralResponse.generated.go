@@ -1,14 +1,15 @@
 package collateralresponse
 
 import (
-	"github.com/shopspring/decimal"
 	"time"
 
-	"github.com/quickfixgo/enum"
-	"github.com/quickfixgo/field"
-	"github.com/quickfixgo/fix44"
-	"github.com/quickfixgo/quickfix"
-	"github.com/quickfixgo/tag"
+	"github.com/shopspring/decimal"
+
+	"github.com/terracefi/enum"
+	"github.com/terracefi/field"
+	"github.com/terracefi/fix44"
+	"github.com/terracefi/quickfix"
+	"github.com/terracefi/tag"
 )
 
 //CollateralResponse is the fix44 CollateralResponse type, MsgType = AZ

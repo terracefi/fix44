@@ -3,10 +3,10 @@ package fix44
 import (
 	"time"
 
-	"github.com/quickfixgo/enum"
-	"github.com/quickfixgo/field"
-	"github.com/quickfixgo/quickfix"
-	"github.com/quickfixgo/tag"
+	"github.com/terracefi/enum"
+	"github.com/terracefi/field"
+	"github.com/terracefi/quickfix"
+	"github.com/terracefi/tag"
 )
 
 //Header is the fix44 Header type
